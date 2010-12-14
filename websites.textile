@@ -3,11 +3,9 @@ layout: default
 title: Websites
 ---
 
-<h1>Websites</h1>
+h1. Websites
 
-<ul>
-    <li>"Conscientous  Catering":http://co-catering.com</li>
-    <li>"Neskonlithin Indian Band":http://neskonlith.org</li>
-    <li>"Golden Ears Farm":http://goldenearsfarm.org</li>
-</ul>
+* "Conscientous  Catering":http://co-catering.com
+* "Neskonlithin Indian Band":http://neskonlith.org
+* "Golden Ears Farm":http://goldenearsfarm.org
 
